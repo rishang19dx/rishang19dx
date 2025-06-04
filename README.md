@@ -1,4 +1,4 @@
-[![Rishang's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishang19dx)](https://github.com/anuraghazra/github-readme-stats&show_icons=true)
+[![Rishang's GitHub stats](https://github-readme-stats.vercel.app/api?username=rishang19dx)](https://github.com/anuraghazra/github-readme-stats&show_icons=true&theme=transparent)
 
 <!---
 rishang19dx/rishang19dx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
